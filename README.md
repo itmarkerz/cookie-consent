@@ -1,1 +1,1 @@
-# Cookie Consent
+# Cookie Consent - Laravel
